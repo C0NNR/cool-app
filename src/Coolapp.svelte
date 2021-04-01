@@ -33,11 +33,25 @@
 </ol>
 
 <style>
+
+    p{ 
+        color: #f08080;
+    }
     .list {
+        color: #f08080;
         list-style: none;
+        font-size: 2em;
+        
+    }
+    .checkbox {
+        margin-right: 2vw;
     }
    .button {
+       font-size: 0.4em;
        border-radius: 50%;
-       background-color: lightcoral;
+       margin-left: 1em;
+       padding-left: 0.5em;
+       padding-right: 0.5em;
+       background-color: #f08080;
    }
 </style>
