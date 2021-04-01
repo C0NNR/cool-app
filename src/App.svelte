@@ -13,13 +13,14 @@ import Coolapp from "./Coolapp.svelte";
 		
 		text-align: center;
 		padding: 1em;
-		max-width: 45vw;
-		max-height: 45vh;
+		max-width: 100vw;
+		max-height: 100;
 		margin: 0 auto;
+		
 	}
-
+	
 	h1 {
-		color: lightcoral;
+		color: #f08080;
 		text-transform: uppercase;
 		font-size: 4em;
 		font-weight: 500;
